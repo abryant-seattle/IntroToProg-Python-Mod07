@@ -89,5 +89,6 @@ is an invalid selection and returned to the menu.
 
 **_Figure 8: When menu_option is not an integer, a try-except block prevents a script crash._**
 
-###Summary
+### Summary
+
 Pickling presents an alternative method of writing and reading files within Python. While these small pieces of contact information do not take up very much space, binary files can compress much larger objects into smaller pieces of information. The most difficult portion of this project was devising a concept program to illustrate pickling and error handling. I chose to model the program after the modest Rolodex, knowing a name would allow the user to look up more information about that contact. This code would function more similar to a Rolodex or phonebook if an additional menu item would allow the user to review all of the names which had been added. For the sake of simplicity to focus on pickling and error handling, I omitted the phonebook feature. Another difficult aspect of this assignment was pre-empting the various types of errors that a user could make that would trigger the code to crash. More extensive testing would likely illustrate a use for try-except blocks in other locations within the script.
