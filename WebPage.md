@@ -1,7 +1,11 @@
 Alexander Bryant
+
 6/1/2020
+
 Foundations of Programming
+
 Assignment 07
+
 
 # Pickling Contacts
 
